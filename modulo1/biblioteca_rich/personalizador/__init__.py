@@ -1,0 +1,1 @@
+"""Pacote de personalização utilizando a biblioteca Rich."""
